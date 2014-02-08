@@ -53,5 +53,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/oklahomer/p5-Lingua-PigLatin-Bidirectional/issues"
+      },
+      "homepage" : "https://github.com/oklahomer/p5-Lingua-PigLatin-Bidirectional",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/oklahomer/p5-Lingua-PigLatin-Bidirectional.git",
+         "web" : "https://github.com/oklahomer/p5-Lingua-PigLatin-Bidirectional"
+      }
+   },
    "version" : "0.01"
 }
